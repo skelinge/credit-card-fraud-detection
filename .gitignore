@@ -1,0 +1,11 @@
+﻿data/*.csv
+models/*.pkl
+models/*.joblib
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+pr_curves_comparison.png
